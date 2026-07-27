@@ -1,8 +1,8 @@
-# Republic of Varden
+# Republic of Vardén
 
-Republic of Varden is an early-development political strategy and simulation game built with Ren'Py.
+Republic of Vardén is an early-development political strategy and simulation game built with Ren'Py.
 
-You take the role of the newly elected Prime Minister of the fictional Republic of Varden. Navigate parliament, manage your coalition, interact with state institutions, and make political decisions whose consequences may extend far beyond the immediate vote.
+You take the role of the newly elected Prime Minister of the fictional Republic of Vardén. Navigate parliament, manage your coalition, interact with state institutions, and make political decisions whose consequences may extend far beyond the immediate vote.
 
 ## Current Version
 
