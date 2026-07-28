@@ -176,8 +176,17 @@ label press_conference:
             player "Judge us by what we accomplish."
             player "Where reform is necessary, we will reform. Where something works, we will preserve it. Our priority will be results."
 
+
+    jump press_questions
+label press_questions:
+
     menu:
-        "Press questions are not implemented yet"
+        "Who will you take questions from?"
+        "NNC - Naional News Coverage":
+
+
+
+
         "Continue":
             jump day_one
 
